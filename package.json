@@ -1,0 +1,15 @@
+{
+  "name": "building-browser-extensions",
+  "version": "1.0.0",
+  "description": "This is a companion extension for the book [Building Browser Extensions by Matt Frisbie](https://www.amazon.com/Building-Browser-Extensions-Create-Firefox-ebook/dp/B0BN578YT5?maas=maas_adg_BE8EBDC1A30DF0DDA752B166D20FD557_afap_abs&ref_=aa_maas&tag=maas). The extension contains a collection of open source examples demonstrating how\r the various parts of browser extensions work.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chrome": "^0.0.268"
+  }
+}
