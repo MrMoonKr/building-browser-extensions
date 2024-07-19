@@ -1,3 +1,40 @@
+# Building Browser Extensions ( 책제목 )
+
+책 설명
+
+## DevOps
+
+개발 환경 설명
+
+- Windows 10
+- nvm for windows
+- node v20.10.0
+- VS Code
+- Chrome  
+
+외부 모듈
+
+- @types/chrome
+- ...
+
+디버깅
+
+  ```
+  Press F5
+  ```
+
+## 구성
+
+### 1장
+
+### 2장
+
+### 3장
+
+### ...
+
+---
+
 # Welcome to the Example Chrome Extension!
 
 ## [Install Example Chrome Extension for Chrome](https://chrome.google.com/webstore/detail/browser-extension-explore/jnofdoejfipgalklopidpdeofjebihcf)
